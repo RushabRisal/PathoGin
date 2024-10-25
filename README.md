@@ -1,10 +1,12 @@
 # Project github.com/anishkn04/PathoGin
 
-One Paragraph of project description goes here
+PathoGin is a pathology lab management system that provides an easy interface to create and manage lab reports, referrers, staff, and much more.
+
+### For contribution: [Contribution Guide](/CONTRIBUTING.md) 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## MakeFile
 
