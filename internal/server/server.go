@@ -35,5 +35,7 @@ func NewServer() *http.Server {
 		WriteTimeout: 30 * time.Second,
 	}
 
+	fmt.Println("New server created at port:", port)
+
 	return server
 }

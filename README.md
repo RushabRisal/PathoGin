@@ -8,6 +8,14 @@ PathoGin is a pathology lab management system that provides an easy interface to
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Prerequisite
+
+- ### Ensure you have the following installed:
+    - Docker
+    - GNU Make
+
+- ### Create .env file
+    Refer to the `.env.example` file for the required variables and their descriptions.
 ## MakeFile
 
 Run build make command with tests
